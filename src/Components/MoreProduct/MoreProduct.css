@@ -1,0 +1,13 @@
+.more-product-section{}
+.more-box a{
+    text-decoration: none;
+}
+.more-btn{
+    width: 50%;
+    transition: all .4s ease-in-out;
+}
+.more-btn:hover{
+    transform: translateX(10px);
+    transition: all .4s ease-in-out;
+
+}

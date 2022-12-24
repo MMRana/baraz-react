@@ -1,0 +1,7 @@
+.head-img{
+    transition: all .3s ease-out;
+}
+.head-img:hover{
+    filter: brightness(0.8);
+    transition: all .3s ease-out;
+}

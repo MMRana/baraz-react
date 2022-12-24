@@ -1,0 +1,17 @@
+.sale-section{}
+.sale-box{
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    border-radius: 15px;
+    transition: all .3s ease-out;
+}
+.sale-box:hover{
+    filter: brightness(0.9);
+    transition: all .3s ease-out;
+}
+.sale-img{
+    width: 15%;
+    margin-right: 10px;
+    
+}
