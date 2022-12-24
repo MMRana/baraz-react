@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/baraz-react/static/css/main.005bfcc6.css",
+    "main.js": "/baraz-react/static/js/main.95c0ce0c.js",
+    "static/js/787.73d50ce4.chunk.js": "/baraz-react/static/js/787.73d50ce4.chunk.js",
+    "static/media/b6.jpg": "/baraz-react/static/media/b6.eb6cedda13b38ae15f97.jpg",
+    "static/media/f2.jpg": "/baraz-react/static/media/f2.3b8891cf94c33d2ef6b0.jpg",
+    "static/media/f4.jpg": "/baraz-react/static/media/f4.feb82d77ff8e313f536f.jpg",
+    "static/media/f1.jpg": "/baraz-react/static/media/f1.d455f87ae4160c778f19.jpg",
+    "static/media/b2.jpg": "/baraz-react/static/media/b2.cbbdfe06f6449174f64a.jpg",
+    "static/media/f6.jpg": "/baraz-react/static/media/f6.6bf0bbda1073dd5133be.jpg",
+    "static/media/b4.jpg": "/baraz-react/static/media/b4.a4a2d1886449c072e570.jpg",
+    "static/media/slider2.jpg": "/baraz-react/static/media/slider2.f1331d7113c3e13edcb5.jpg",
+    "static/media/f5.jpg": "/baraz-react/static/media/f5.757700b2405a7a323444.jpg",
+    "static/media/slider3.jpg": "/baraz-react/static/media/slider3.ceafa8cdba449f694c5c.jpg",
+    "static/media/slider1.jpg": "/baraz-react/static/media/slider1.9315822a43dbf3ef8ee1.jpg",
+    "static/media/slider4.jpg": "/baraz-react/static/media/slider4.4f8249c53a098c69764b.jpg",
+    "static/media/top.png": "/baraz-react/static/media/top.129b88b1586c55a09d92.png",
+    "static/media/slider5.jpg": "/baraz-react/static/media/slider5.9af26fc2bf8154676992.jpg",
+    "static/media/b5.jpg": "/baraz-react/static/media/b5.e04414fab7c242628df8.jpg",
+    "static/media/b1.jpg": "/baraz-react/static/media/b1.50426400f100b6562fc0.jpg",
+    "static/media/feature4.png": "/baraz-react/static/media/feature4.3738efd10310811dd28c.png",
+    "static/media/feature2.png": "/baraz-react/static/media/feature2.3556ae8aa12f87012a10.png",
+    "static/media/f3.jpg": "/baraz-react/static/media/f3.100cf9862f1a49233436.jpg",
+    "static/media/b3.jpg": "/baraz-react/static/media/b3.c86ee68e0551dbe15cd0.jpg",
+    "static/media/feature1.png": "/baraz-react/static/media/feature1.b68062ad666030022fd1.png",
+    "static/media/feature3.png": "/baraz-react/static/media/feature3.ab5698317609bad47343.png",
+    "index.html": "/baraz-react/index.html",
+    "main.005bfcc6.css.map": "/baraz-react/static/css/main.005bfcc6.css.map",
+    "main.95c0ce0c.js.map": "/baraz-react/static/js/main.95c0ce0c.js.map",
+    "787.73d50ce4.chunk.js.map": "/baraz-react/static/js/787.73d50ce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.005bfcc6.css",
+    "static/js/main.95c0ce0c.js"
+  ]
+}
